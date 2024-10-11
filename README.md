@@ -23,9 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![Screenshot 2](./design/mobile-design.jpg)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Sulotion URL](https://github.com/CasperTheChild/Fm_recipe_card)
+- Live Site URL: [Live Site URL](https://casperthechild.github.io/Fm_recipe_card/)
 
 ## My process
 
